@@ -1,0 +1,12 @@
+# JetBrains IDEs (CLion, IntelliJ, etc.)
+.idea/
+*.iws
+*.iml
+out/
+cmake-build-*/
+
+# Compiled files & local logs
+*.log
+*.exe
+*.o
+*.obj
